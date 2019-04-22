@@ -5,10 +5,9 @@
 ### 输入法
 我喜欢用[搜狗输入法](https://pinyin.sogou.com/mac/)
 ## 研发
-
+- [brew](https://brew.sh/): mac os的软件包
 ### 文档
 - 我前调Markdown写作能力
-
 ### 前端研发
 - vs code
   - git
@@ -17,3 +16,9 @@
     - eslint
 - 微信开发者工具
 - chrome
+- 安装nodejs
+  
+```bash
+brew install nvm
+nvm install node
+```
