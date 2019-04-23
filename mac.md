@@ -29,3 +29,7 @@
 brew install nvm
 nvm install node
 ```
+- [sip](http://sipapp.io):取色器
+
+## 前端 & 设计
+- 蓝湖
